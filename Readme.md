@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Alexander Burnin](https://up.htmlacademy.ru/javascript/22/user/1707723).
-* Наставник: `Неизвестно`.
+* Наставник: [Александр Пасунько](https://htmlacademy.ru/profile/id702351).
 
 ---
 
