@@ -16,4 +16,5 @@ const getRandomIntegerFromRange = function(min, max) {
 
 const isNotLongerThan = (string, maxLength) => (string+'').length <= maxLength ? true : false;
 
-
+getRandomIntegerFromRange(0.12, 0.12);
+isNotLongerThan(5,5);
